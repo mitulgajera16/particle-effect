@@ -2,7 +2,7 @@
 
 Interactive particle effect editor — upload any image and watch it dissolve into thousands of particles that react to your cursor with real-time physics.
 
-https://github.com/user-attachments/assets/placeholder
+**[Try it live](https://particle-effect-sooty.vercel.app)**
 
 ## Inspiration
 
