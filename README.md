@@ -4,6 +4,8 @@ Interactive particle effect editor — upload any image and watch it dissolve in
 
 **[Try it live](https://particle-effect-tool.vercel.app)**
 
+https://github.com/mitulgajera16/particle-effect/releases/download/v1.0.0/demo.mov
+
 ## Inspiration
 
 This project is inspired by [Emil Kowalski's particle effect](https://x.com/emilkowalski/status/2036778116748542220). I loved the original implementation and wanted to recreate it from scratch as an open-source tool that anyone can use, learn from, or build on top of.
